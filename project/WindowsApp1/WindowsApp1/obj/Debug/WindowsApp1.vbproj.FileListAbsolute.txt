@@ -1,0 +1,48 @@
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmlogin.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmmain.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Billing.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.MenuItems.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Addnewitem.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.SearchItem.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.order_listing.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Discount.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Home_delivery.resources
+C:\Users\Nainsha\Desktop\Project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Sales.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\bin\Debug\MetroFramework.Design.dll
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\bin\Debug\MetroFramework.dll
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\bin\Debug\MetroFramework.Fonts.dll
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Billing.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmlogin.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Addnewitem.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Discount.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmmain.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Home_delivery.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.order_listing.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Sales.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.SearchItem.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.MenuItems.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\KAJAL SINGH(BSCIT-16-027)\Project\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

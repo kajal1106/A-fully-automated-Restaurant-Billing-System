@@ -1,0 +1,193 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    height: 35px;
+    background: linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(27,100,168,1) 100%);
+}
+
+li {
+    float: right;
+}
+
+ul:hover {
+    background: linear-gradient(to left, rgba(0,0,0,1) 0%, rgba(27,100,168,1) 100%);
+}
+
+
+li a {
+    
+    display: inline-block;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 12px;
+    color: cyan
+      
+}
+
+    li a:hover:not(.active) {
+        background-color: dodgerblue;
+    }
+
+
+
+
+.mySlides {
+    display: none;
+    animation: left;
+    width: 100%;
+    height: 650px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+A {
+    float:left;
+}
+
+.panel1 {
+    width: 33%;
+    height: 250px;
+
+    float:left;
+    
+}
+
+.panel2 {
+    width: 33%;
+    height: 250px;
+    float: left;
+}
+
+.panel3 {
+    width: 34%;
+    height: 200px;
+    float: left;
+}
+
+.panel4 {
+    width: 35%;
+    height: 200px;
+    float: left;
+}
+
+.panel5 {
+    width: 33%;
+    height: 250px;
+    float: left;
+    
+}
+.panel6 {
+    width: 33%;
+    height: 250px;
+    float: left;
+   }
+.panel7 {
+    width: 34%;
+    height: 250px;
+    float: left;
+}
+.panel8 {
+    width: 100%;
+    height: 430px;
+    float: left;
+    
+    background-color:whitesmoke;
+}
+.panel9 {
+    width: 33%;
+    height: 400px;
+    float: left;
+    
+}
+.panel10 {
+    width: 34%;
+    height: 200px;
+    float: left;
+}
+
+
+.lbl {
+    color: snow;
+    font-size: 15px;
+    border-radius:  0 8px  8px 0;
+    
+    padding: 6px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+    background: linear-gradient( to left, #003e75 0%,#0062ad);
+}
+
+    .lbl:hover {
+        background: linear-gradient(to right, rgba(110,0,108,1) 0%, rgba(227,32,221,1) 100%);
+    }
+
+h2 {
+    font-weight: 300;
+    font-size: 16px;
+    font-family: "Source Sans Pro";
+    
+    height:200px;
+}
+    h2:hover {
+        color: teal;
+    }
+
+.pad {
+    padding:40px ;
+}
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    
+    color: #2d3033;
+    font-weight:200;
+    font-size:40px;
+}
+.panel11 {
+    float: left; 
+        width: 40%;
+    height: 400px;
+}
+.etext{
+ background: white; 
+    border: 1px solid blue; 
+    border-radius: 3px; 
+    box-shadow: 0 0 1px 1px black; 
+    color: #666; 
+    outline: none; 
+    height:23px; 
+    width: 275px; 
+  }
+.elable {
+    width: 0;
+    color: black;
+    font-size: 15px;
+    text-align: left;
+    font-weight: bold;
+}
+.ebtn {
+    background-color: green;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position:center;
+}

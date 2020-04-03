@@ -1,0 +1,4 @@
+D:\KAJAL SINGH(BSCIT-16-027)\Project\UIDA_Project\UIDA_Project\obj\Debug\UIDA_Project.vbprojResolveAssemblyReference.cache
+D:\KAJAL SINGH(BSCIT-16-027)\Project\UIDA_Project\UIDA_Project\obj\Debug\UIDA_Project.Resources.resources
+D:\KAJAL SINGH(BSCIT-16-027)\Project\UIDA_Project\UIDA_Project\obj\Debug\UIDA_Project.vbproj.GenerateResource.cache
+D:\KAJAL SINGH(BSCIT-16-027)\Project\UIDA_Project\UIDA_Project\obj\Debug\UIDA_Project.vbproj.CoreCompileInputs.cache

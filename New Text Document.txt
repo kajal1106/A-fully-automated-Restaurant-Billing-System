@@ -1,0 +1,45 @@
+ Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim email As String
+        Dim mobile As Double
+        Dim pass As Double
+        Dim Name(10) As String
+        Dim ItemNumber(10) As String
+        Dim x As Integer
+        Form2.TextBox1.AppendText(" " + vbNewLine)
+        Name(1) = ComboBox1.Text
+        Name(2) = TextBox1.Text
+        Name(3) = TextBox2.Text
+        '---------------------------
+        ItemNumber(1) = Label1.Text
+        ItemNumber(2) = Label2.Text
+        ItemNumber(3) = Me.Lable3.Text
+        '---------------------------
+        email = Val(ComboBox1.Text)
+        mobile = Val(TextBox1.Text)
+        pass = Val(TextBox2.Text)
+        '--------------------------
+        Form2.TextBox1.AppendText(" " + vbNewLine)
+        Form2.TextBox1.AppendText("                           Suraj singh" + vbNewLine)
+        Form2.TextBox1.AppendText("====================================" + vbNewLine)
+        Form2.TextBox1.AppendText("                            Devil" + vbNewLine)
+        Form2.TextBox1.AppendText("====================================" + vbNewLine)
+        Form2.TextBox1.AppendText(" " + vbNewLine)
+        '--------------------------------
+        For x = 1 To 3
+            Form2.TextBox1.AppendText(vbTab + ItemNumber(x) + vbTab + Name(x) + vbTab + vbNewLine)
+        Next x
+        '----------------------------------------
+        Form2.TextBox1.AppendText(" " + vbNewLine)
+        '' Form2.TextBox1.AppendText(vbTab & "Email:      " + ComboBox1.Text + vbNewLine)
+        '' Form2.TextBox1.AppendText(vbTab & "Mobile:     " + TextBox1.Text + vbNewLine)
+        '' Form2.TextBox1.AppendText(vbTab & "Password:   " + passw.Text + vbNewLine)
+        Form2.TextBox1.AppendText(" " + vbNewLine)
+        Form2.TextBox1.AppendText("==================================" + vbNewLine)
+        Form2.TextBox1.AppendText("" + vbNewLine)
+        Form2.TextBox1.AppendText(vbTab & Today & vbTab & TimeOfDay + vbNewLine)
+        Form2.TextBox1.AppendText("==================================" + vbNewLine)
+        Form2.TextBox1.AppendText("                Ao Kabhi Haveli pe" + vbNewLine)
+        Form2.TextBox1.AppendText("==================================" + vbNewLine)
+        Form2.Show()
+    End Sub
+End Class
